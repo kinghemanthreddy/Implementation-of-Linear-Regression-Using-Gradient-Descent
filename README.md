@@ -115,9 +115,9 @@ predict2=predict(np.array([1,7]),theta)*10000
 print("For population = 70,000,we predict a profit of $"+str(round(predict2,0)))
 
 ## Output:
-![linear regression using gradient descent](folder\196502652-c291c1cb-b8a8-47a9-b245-047ec089ca19.png)
-![linear regression using gradient descent2](folder\196502735-8519952f-875b-4478-bb24-0579e77cbb2a.png)
-![linear regression using gradient descent3](folder\196502891-2ad6fbd5-e99b-4dd8-bd43-4e3a3be90007.png)
+![linear regression using gradient descent](folder/196502652-c291c1cb-b8a8-47a9-b245-047ec089ca19.png)
+![linear regression using gradient descent2](folder/196502735-8519952f-875b-4478-bb24-0579e77cbb2a.png)
+![linear regression using gradient descent3](folder/196502891-2ad6fbd5-e99b-4dd8-bd43-4e3a3be90007.png)
 
 
 ## Result:
